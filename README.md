@@ -38,4 +38,6 @@ For Mac user, run `bash starMac.sh` or `./starMac.sh`
 
 ## Notes
 
-For original released information on STAR, please turn to [STAR](https://github.com/alexdobin/STAR).
+- For the demo STAR running, the memory (or RAM) more than 6GB is recommended.
+
+- For original released information on STAR, please turn to [STAR](https://github.com/alexdobin/STAR).
