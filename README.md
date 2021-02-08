@@ -8,9 +8,9 @@ Step 1, clone this demo, run
 
 ```git clone https://github.com/niwakoki/demoSTAR```
 
-Step 2, change the directory, run
+Step 2, change the directory to `./demo`, for example, you may run
 
-```cd demoSTAR```
+```cd demoSTAR/demo```
 
 Step 3, start running demo STAR
 
@@ -18,10 +18,10 @@ For linux user, run
 
 ```bash starLinux.sh```
 
-For linux user, run
+For Mac user, run
 
-```bash starLinux.sh```
+```bash starMac.sh```
 
 ## Notes
 
-For original released inforamtion on STAR, please turn to [STAR](https://github.com/alexdobin/STAR).
+For original released information on STAR, please turn to [STAR](https://github.com/alexdobin/STAR).
