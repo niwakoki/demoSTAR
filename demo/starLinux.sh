@@ -2,7 +2,7 @@
 ulimit -n 4096
 
 # star="./macOS/STAR"
-star="~/linuxOS/STAR"
+star="./linuxOS/STAR"
 
 myGenomeDir="./data/genome/"
 myGenomeFastaFiles="./data/genome/chr21.hg37.fa"
