@@ -1,6 +1,6 @@
 # STAR demo for beginners
 
-This is the demo STAR softwares for beginners.
+This is the demo STAR for beginners to make it easy for beginners to use STAR.
 
 ## How to download and run demo STAR? (For Linux/Mac user)
 
