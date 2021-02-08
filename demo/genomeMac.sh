@@ -4,7 +4,7 @@ ulimit -n 4096
 star="./macOS/STAR"
 # star="~/linuxOS/STAR"
 
-myGenomeDir="./data/genome/"
+myGenomeDir="./data/genome"
 myGenomeFastaFiles="./data/genome/chr21.hg37.fa"
 mySjdbGTFfile="./data/genome/chr21.hg37.gtf"
 myFileNamePrefix="./data/result/result."
@@ -16,4 +16,4 @@ ${star} \
  --genomeDir ${myGenomeDir} \
  --genomeFastaFiles ${myGenomeFastaFiles} \
  --sjdbGTFfile ${mySjdbGTFfile} \
- --sjdbOverhang 100 
+ --sjdbOverhang 100
