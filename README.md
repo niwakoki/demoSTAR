@@ -22,6 +22,8 @@ This is the demo STAR for beginners to make it easy for beginners to use STAR.
 
 - Pay attention to the name of `genome` folder. If its name is not `genome`, you may get the error and need to reverse the genome folder name in `starLinux.sh` or `starMac.sh`.
 
+- As an optinal, you can generate the `genome` folder instead of downloading and setting the directory of them. Just try to run the script `genomeLinux.sh` or `genomeMac.sh` in the command (in the working directory of `./demo`). Once you have run it successfully for one time, you don't have to run it every time.
+
 **Step 3**, make sure you change the working directory to `./demo`, for example, you may run
 
 ```cd ./demoSTAR/demo```
