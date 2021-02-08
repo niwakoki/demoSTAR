@@ -16,9 +16,9 @@ This is the demo STAR for beginners to make it easy for beginners to use STAR.
 
 - After this step, you will see `demo` folder is inside the `demoSTAR` folder. Inside `demo` folder, there are `data` folder, `result` folder, `linuxOS` folder, `macOS` folder, `starLinux.sh`, `starMac.sh`.
 
-**Step 2**, download the [genome folder](https://drive.google.com/drive/folders/1J_kCb_xnE9D8_WSSN3Qt8YRa_pbBpYmO?usp=sharing) and copy the `genome` folder into the `data` folder.
+**Step 2**, download the [genome folder](https://drive.google.com/drive/folders/1E_RJofRoUjM8AZc5CKcFLID7qXqLzozH?usp=sharing) we prepared for you and copy the `genome` folder (including the files in it) into the `data` folder.
 
-- After this step, there should be `RNAseq` folder and `genome` folder inside the `data` folder
+- After this step, there should be `genome` folder, `RNAseq` folder and `result` folder inside the `data` folder
 
 - Pay attention to the name of `genome` folder. If its name is not `genome`, you may get the error and need to reverse the genome folder name in `starLinux.sh` or `starMac.sh`.
 
